@@ -3475,7 +3475,6 @@ var Chandigarh = [
   },
 ];
 
-// yaha se
 var UttarPradesh = [
   {
       district: "Agra",
@@ -6433,6 +6432,157 @@ var HimachalPradesh = [
           name: "Mandi",
           LAC: [
             "Balh","Darang","Jogindernagar","Karsog","Mandi","Nachan","Sarkaghat","Seraj","Sundernagar"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Shimla",
+      PACs: [
+        {
+          name: "Mandi",
+          LAC: [
+            "Rampur"
+          ],
+        },
+        {
+          name: "Shimla",
+          LAC: [
+            "Chopal","Jubbal-Kotkhai","Kasumpti","Rohru","Shimla","Shimla Rural","Theog"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Sirmour",
+      PACs: [
+        {
+          name: "Shimla",
+          LAC: [
+            "Nahan","Pachhad","Paonta Sahib","Shillai","Sri Renukaji"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Solan",
+      PACs: [
+        {
+          name: "Shimla",
+          LAC: [
+            "Arki","Doon","Kasauli","Nalagarh","Solan"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Una",
+      PACs: [
+        {
+          name: "Hamirpur",
+          LAC: [
+            "Chintpurni","Gagret","Haroli","Kutlehar","Una"
+          ],
+        }
+      ],
+    },
+  ];
+
+var Ladakh = [
+    {
+      district: "Ladakh",
+      PACs: [
+        {
+          name: "",
+          LAC: [
+            ""
+          ],
+        }
+      ],
+    },
+    {
+      district: "Leh Ladakh",
+      PACs: [
+        {
+          name: "",
+          LAC: [
+            ""
+          ],
+        }
+      ],
+    },
+  ];
+
+
+var Lakshadweep = [
+    {
+      district: "Lakshadweep",
+      PACs: [
+        {
+          name: "Lakshadweep",
+          LAC: [
+            "Lakshadweep"
+          ],
+        }
+      ],
+    }
+  ];
+
+var Puducherry = [
+    {
+      district: "Karaikal",
+      PACs: [
+        {
+          name: "Puducherry",
+          LAC: [
+            "Karaikal North","Karaikal South","Nedungadu","Neravy T.R. Pattinam","Thirunallar"
+          ],
+        }
+      ],
+    }
+  ];
+
+var Sikkim = [
+    {
+      district: "East District",
+      PACs: [
+        {
+          name: "Sikkim",
+          LAC: [
+            "Arithang","Chujachen","Gangtok","Gnathang-Machong","Kabi Lungchuk","Khamdong-Singtam","Martam-Rumtek","Namcheybung","Rhenock","Shyari","Upper Burtuk","Upper Tadong","West Pendam"
+          ],
+        }
+      ],
+    },
+    {
+      district: "North District",
+      PACs: [
+        {
+          name: "Sikkim",
+          LAC: [
+            "Djongu","Lachen Mangan","Sangha"
+          ],
+        }
+      ],
+    },
+    {
+      district: "South District",
+      PACs: [
+        {
+          name: "Sikkim",
+          LAC: [
+            "Barfung","Melli","Namchi-Singhithang","Namthang-Rateypani","Poklok-Kamrang","Rangang-Yangang","Salghari-Zoom","Temi-Namphing","Tumen-Lingi"
+          ],
+        }
+      ],
+    },
+    {
+      district: "West District",
+      PACs: [
+        {
+          name: "Sikkim",
+          LAC: [
+            "Daramdin","Gyalshing-Barnyak","Maneybung-Dentam","Rinchenpong","Soreong-Chakung","Yangthang","Yoksam-Tashiding"
           ],
         }
       ],
