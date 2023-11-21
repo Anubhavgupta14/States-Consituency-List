@@ -8690,3 +8690,999 @@ var Tripura = [
       ],
     },
   ];
+
+
+  var Odisha = [
+    {
+      district: "Angul",
+      PACs: [
+        {
+          name: "Dhenkanal",
+          LAC: [
+            "Angul", "Talcher"
+          ],
+        },
+        {
+          name: "Sambalpur",
+          LAC: [
+            "Athamallik", "Chhendipada"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Balasore",
+      PACs: [
+        {
+          name: "Balasore",
+          LAC: [
+            "Balasore", "Basta", "Bhograi", "Jaleswar", "Nilgiri", "Remuna"
+          ],
+        },
+        {
+          name: "Bhadrak",
+          LAC: [
+            "Simulia", "Soro"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Baragarh",
+      PACs: [
+        {
+          name: "Bargarh",
+          LAC: [
+            "Attabira", "Bargarh", "Bhatli", "Bijepur", "Padampur"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Bhadrak",
+      PACs: [
+        {
+          name: "Bhadrak",
+          LAC: [
+            "Basudevpur", "Bhadrak", "Bhandaripokhari", "Chandabali", "Dhamnagar"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Bolangir",
+      PACs: [
+        {
+          name: "Bolangir",
+          LAC: [
+            "Bolangir", "Kantabanji", "Loisingha", "Patnagarh", "Titligarh"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Boudh",
+      PACs: [
+        {
+          name: "Kandhamal",
+          LAC: [
+            "Boudh", "Kantamal"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Cuttack",
+      PACs: [
+        {
+          name: "Cuttack",
+          LAC: [
+            "Athagarh", "Banki", "Barabati-Cuttack", "Baramba", "Choudwar-Cuttack", "Cuttack Sadar"
+          ],
+        },
+        {
+          name: "Jagatsinghpur",
+          LAC: [
+            "Niali"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Cuttack",
+      PACs: [
+        {
+          name: "Cuttack",
+          LAC: [
+            "Athagarh", "Banki", "Barabati-Cuttack", "Baramba", "Choudwar-Cuttack", "Cuttack Sadar"
+          ],
+        },
+        {
+          name: "Jagatsinghpur",
+          LAC: [
+            "Niali"
+          ],
+        }
+      ],
+    },
+  ];
+
+
+  var TamilNadu = [
+    {
+      district: "Ariyalur",
+      PACs: [
+        {
+          name: "Chidambaram",
+          LAC: ["Ariyalur", "Jayankondam"],
+        },
+      ],
+    },
+    {
+      district: "Chennai",
+      PACs: [
+        {
+          name: "Chennai Central",
+          LAC: [
+            "Anna Nagar",
+            "Chepauk-Thiruvallikeni",
+            "Egmore",
+            "Harbour",
+            "Thousand Lights",
+            "Villivakkam",
+          ],
+        },
+        {
+          name: "Chennai North",
+          LAC: [
+            "Dr. Radhakrishnan Nagar",
+            "Kolathur",
+            "Perambur",
+            "Royapuram",
+            "Thiru-Vi-Ka-Nagar",
+          ],
+        },
+        {
+          name: "Chennai South",
+          LAC: [
+            "Mylapore",
+            "Saidapet",
+            "Thiyagarayanagar",
+            "Velachery",
+            "Virugampakkam",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Coimbatore",
+      PACs: [
+        {
+          name: "Coimbatore",
+          LAC: [
+            "Coimbatore(North)",
+            "Coimbatore(South)",
+            "Kavundampalayam",
+            "Singanallur",
+            "Sulur",
+          ],
+        },
+        {
+          name: "Nilgiris",
+          LAC: ["Mettuppalayam"],
+        },
+        {
+          name: "Pollachi",
+          LAC: ["Kinathukadavu", "Pollachi", "Thondamuthur", "Valparai"],
+        },
+      ],
+    },
+    {
+      district: "Cuddalore",
+      PACs: [
+        {
+          name: "Chidambaram",
+          LAC: ["Bhuvanagiri", "Chidambaram", "Kattumannarkoli(Sc)"],
+        },
+        {
+          name: "Cuddalore",
+          LAC: [
+            "Cuddalore",
+            "Kurinjipadi",
+            "Neyveli",
+            "Panruti",
+            "Tittagudi (Sc)",
+            "Vridhachalam",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Dharmapuri",
+      PACs: [
+        {
+          name: "Dharmapuri",
+          LAC: [
+            "Dharmapuri",
+            "Pappireddippatti",
+            "Harur",
+            "Palacode",
+            "Pennagaram",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Dindigul",
+      PACs: [
+        {
+          name: "Dindigul",
+          LAC: [
+            "Athoor",
+            "Dindigul",
+            "Natham",
+            "Nilakkottai",
+            "Oddanchatram",
+            "Palani",
+          ],
+        },
+        {
+          name: "Karur",
+          LAC: ["Vedasandur"],
+        },
+      ],
+    },
+    {
+      district: "Erode",
+      PACs: [
+        {
+          name: "Erode",
+          LAC: ["Erode (East)", "Erode (West)", "Modakkurichi"],
+        },
+        {
+          name: "Nilgiris",
+          LAC: ["Bhavanisagar"],
+        },
+        {
+          name: "Tiruppur",
+          LAC: ["Anthiyur", "Bhavani", "Gobichettipalayam", "Perundurai"],
+        },
+      ],
+    },
+    {
+      district: "Kancheepuram",
+      PACs: [
+        {
+          name: "Chennai South",
+          LAC: ["Shozhinganallur"],
+        },
+        {
+          name: "Kancheepuram",
+          LAC: [
+            "Chengalpattu",
+            "Cheyyur",
+            "Kancheepuram",
+            "Madurantakam",
+            "Thiruporur",
+            "Uthiramerur",
+          ],
+        },
+        {
+          name: "Sriperumbudur",
+          LAC: ["Alandur", "Pallavaram", "Sriperumbudur", "Tambaram"],
+        },
+      ],
+    },
+    {
+      district: "Kanniyakumari",
+      PACs: [
+        {
+          name: "Kanniyakumari",
+          LAC: [
+            "Colachel",
+            "Kanniyakumari",
+            "Killiyoor",
+            "Nagercoil",
+            "Padmanabhapuram",
+            "Vilavancode",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Karur",
+      PACs: [
+        {
+          name: "Karur",
+          LAC: ["Aravakurichi", "Karur", "Krishnarayapuram"],
+        },
+        {
+          name: "Perambalur",
+          LAC: ["Kulithalai"],
+        },
+      ],
+    },
+    {
+      district: "Krishnagiri",
+      PACs: [
+        {
+          name: "Krishnagiri",
+          LAC: [
+            "Bargur",
+            "Hosur",
+            "Krishnagiri",
+            "Thalli",
+            "Uthangarai",
+            "Veppanahalli",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Madurai",
+      PACs: [
+        {
+          name: "Maudrai",
+          LAC: [
+            "Madurai Central",
+            "Madurai East",
+            "Madurai North",
+            "Madurai South",
+            "Madurai West",
+            "Melur",
+          ],
+        },
+        {
+          name: "Theni",
+          LAC: ["Sholavandan", "Usilampatti"],
+        },
+        {
+          name: "Virudhunagar",
+          LAC: ["Thriumangalam", "Thiruparankundram"],
+        },
+      ],
+    },
+    {
+      district: "Nagapattinam",
+      PACs: [
+        {
+          name: "Mayiladuthurai",
+          LAC: ["Mayiladuthurai", "Poompuhar", "Sirkazhi"],
+        },
+        {
+          name: "Nagapattinam",
+          LAC: ["Kilvelur", "Nagapattinum", "Vedaranyam"],
+        },
+      ],
+    },
+    {
+      district: "Namakkal",
+      PACs: [
+        {
+          name: "Erode",
+          LAC: ["Kumarapalayam"],
+        },
+        {
+          name: "Namakkal",
+          LAC: [
+            "Namakkal",
+            "Paramathi-Velur",
+            "Rasipuram",
+            "Senthamangalam",
+            "Tiruchengodu",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Perambalur",
+      PACs: [
+        {
+          name: "Chidambaram",
+          LAC: ["Kunnam"],
+        },
+        {
+          name: "Perambalur",
+          LAC: ["Perambalur"],
+        },
+      ],
+    },
+    {
+      district: "Pudukkottai",
+      PACs: [
+        {
+          name: "Karur",
+          LAC: ["Viralimalai"],
+        },
+        {
+          name: "Ramanathapuram",
+          LAC: ["Aranthangi"],
+        },
+        {
+          name: "Sivaganga",
+          LAC: ["Alangudi", "Thirumayam"],
+        },
+        {
+          name: "Tiruchirappalli",
+          LAC: ["Gandharvakottai"],
+        },
+      ],
+    },
+    {
+      district: "Ramanathapuram",
+      PACs: [
+        {
+          name: "Ramanathapuram",
+          LAC: ["Mudhukulathur", "Paramakudi", "Ramanathapuram", "Tiruvadanai"],
+        },
+      ],
+    },
+    {
+      district: "Salem",
+      PACs: [
+        {
+          name: "Dharmapuri",
+          LAC: ["Mettur"],
+        },
+        {
+          name: "Kallakurichi",
+          LAC: ["Attur", "Gangavalli", "Yercaud"],
+        },
+        {
+          name: "Namakkal",
+          LAC: ["Sankari"],
+        },
+        {
+          name: "Salem",
+          LAC: [
+            "Edappadi",
+            "Omalur",
+            "Salem (North)",
+            "Salem (South)",
+            "Salem (West)",
+            "Veerapandi",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Sivaganga",
+      PACs: [
+        {
+          name: "Sivaganga",
+          LAC: ["Karaikudi", "Manamadurai", "Sivaganga", "Tiruppattur"],
+        },
+      ],
+    },
+    {
+      district: "Thanjavur",
+      PACs: [
+        {
+          name: "Mayiladuthurai",
+          LAC: ["Kumbakonam", "Papanasam", "Thiruvidaimarudur"],
+        },
+        {
+          name: "Thanjavur",
+          LAC: [
+            "Orathanadu",
+            "Pattukkottai",
+            "Peravurani",
+            "Thanjavur",
+            "Thiruvaiyaru",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Theni",
+      PACs: [
+        {
+          name: "Theni",
+          LAC: ["Andipatti", "Bodinayakanur", "Cumbum", "Periyakulam"],
+        },
+      ],
+    },
+    {
+      district: "The Nilgiris",
+      PACs: [
+        {
+          name: "Nilgiris",
+          LAC: ["Coonoor", "Gudalur", "Udhagamandalam"],
+        },
+      ],
+    },
+    {
+      district: "Thiruvallur",
+      PACs: [
+        {
+          name: "Arakkonam",
+          LAC: ["Tiruttani", ""],
+        },
+        {
+          name: "Chennai North",
+          LAC: ["Thiruvottiyur"],
+        },
+        {
+          name: "Sriperumbudur",
+          LAC: ["Ambattur", "Maduravoyal"],
+        },
+        {
+          name: "Thiruvallur",
+          LAC: [
+            "Avadi",
+            "Gummidipoondi",
+            "Madavaram",
+            "Ponneri",
+            "Poonamallee",
+            "Thiruvallur",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Thiruvarur",
+      PACs: [
+        {
+          name: "Nagapattinam",
+          LAC: ["Nannilam", "Thiruthuraipoondi", "Thiruvarur"],
+        },
+        {
+          name: "Thanjavur",
+          LAC: ["Mannargudi"],
+        },
+      ],
+    },
+    {
+      district: "Thoothukkudi",
+      PACs: [
+        {
+          name: "Thoothukkudi",
+          LAC: [
+            "Kovilpatti",
+            "Ottapidaram",
+            "Srivaikuntam",
+            "Thoothukkudi",
+            "Tiruchendur",
+            "Vilathikulam",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Tiruchirappalli",
+      PACs: [
+        {
+          name: "Karur",
+          LAC: ["Manapparai"],
+        },
+        {
+          name: "Perambalur",
+          LAC: ["Lalgudi", "Manachanallur", "Musiri", "Thuraiyur"],
+        },
+        {
+          name: "Tiruchirappalli",
+          LAC: [
+            "Pudukkottai",
+            "Srirangam",
+            "Triuverumbur",
+            "Tiruchirappalli (East)",
+            "Tiruchirappalli (West)",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Tirunelveli",
+      PACs: [
+        {
+          name: "Tenkasi",
+          LAC: ["Kadayanallur", "Sankarankovil", "Tenkasi", "Vasudevanallur"],
+        },
+        {
+          name: "Tirunelveli",
+          LAC: [
+            "Alangulam",
+            "Ambasamudram",
+            "Nanguneri",
+            "Palayamkottai",
+            "Radhapuram",
+            "Tirunelveli",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Tiruppur",
+      PACs: [
+        {
+          name: "Coimbatore",
+          LAC: ["Palladam"],
+        },
+        {
+          name: "Erode",
+          LAC: ["ErodeDharapuram (Sc)", "Kangayam"],
+        },
+        {
+          name: "Nilgiris",
+          LAC: ["Avanashi (Sc)"],
+        },
+        {
+          name: "Pollachi",
+          LAC: ["Madathukulam", "Udumalaipettai"],
+        },
+        {
+          name: "Tiruppur",
+          LAC: ["Tiruppur (North)", "Tiruppur (South)"],
+        },
+      ],
+    },
+    {
+      district: "Tiruvannamalai",
+      PACs: [
+        {
+          name: "Arani",
+          LAC: ["Arani", "Cheyyar", "Polur", "Vandavasi"],
+        },
+        {
+          name: "Tiruvannamalai",
+          LAC: ["Chengam", "Kalasapakkam", "Kilpennathur", "Tiruvannamalai"],
+        },
+      ],
+    },
+    {
+      district: "Vellore",
+      PACs: [
+        {
+          name: "Arakkonam",
+          LAC: ["Arakkonam", "Arcot", "Katpadii", "Ranipet", "Sholingur"],
+        },
+        {
+          name: "Tiruvannamalai",
+          LAC: ["Jolarpet", "Tirupattur"],
+        },
+        {
+          name: "Vellor",
+          LAC: [
+            "Ambur",
+            "Anaikattu",
+            "Gudiyattam",
+            "Kilvaithinankuppam",
+            "Vaniyambadi",
+            "Vellore",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Villupuram",
+      PACs: [
+        {
+          name: "Arani",
+          LAC: ["Gingee", "Mailam"],
+        },
+        {
+          name: "Kallakurichi",
+          LAC: ["Kallakurichi", "Rishivandiyam", "Sankarapuram"],
+        },
+        {
+          name: "Viluppuram",
+          LAC: [
+            "Tindivanam",
+            "Tirukkoyilur",
+            "Ulundurpettai",
+            "Vanur",
+            "Vikravandi",
+            "Villupuram",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Virdhunagar",
+      PACs: [
+        {
+          name: "Ramanathapuram",
+          LAC: ["Tiruchuli"],
+        },
+        {
+          name: "Tenkasi",
+          LAC: ["Rajapalayam","Srivalliputhur"],
+        },
+        {
+          name: "Virudhunagar",
+          LAC: ["Aruppukkottai","Sattur","Sivakasi","Virudhunagar"],
+        },
+      ],
+    },
+  ];
+
+  var Kerala = [
+    {
+      district: "Alappuzha",
+      PACs: [
+        {
+          name: "Alappuzha",
+          LAC: [
+            "Alappuzha",
+            "Ambalapuzha",
+            "Aroor",
+            "Cherthala",
+            "Haripad",
+            "Kayamkulam",
+          ],
+        },
+        {
+          name: "Mavelikkara",
+          LAC: ["Chengannur", "Kuttanad", "Mavelikara"],
+        },
+      ],
+    },
+    {
+      district: "Ernakulam",
+      PACs: [
+        {
+          name: "Chalakudy",
+          LAC: ["Aluva", "Angamaly", "Kunnathunad", "Perumbavoor"],
+        },
+        {
+          name: "Ernakulam",
+          LAC: [
+            "Eranakulam",
+            "Kalamassery",
+            "Kochi",
+            "Paravur",
+            "Thrikkakara",
+            "Thripunithura",
+            "Vypen",
+          ],
+        },
+        {
+          name: "Idukki",
+          LAC: ["Kothamangalam", "Muvattupuzha"],
+        },
+        {
+          name: "Kottayam",
+          LAC: ["Piravom"],
+        },
+      ],
+    },
+    {
+      district: "Idukki",
+      PACs: [
+        {
+          name: "Idukki",
+          LAC: ["Devikulam", "Idukki", "Peerumade", "Thodupuzha", "Udumbanchola"],
+        },
+      ],
+    },
+    {
+      district: "Kannur",
+      PACs: [
+        {
+          name: "Kannur",
+          LAC: [
+            "Azhikode",
+            "Dharmadam",
+            "Irikkur",
+            "Kalliasseri",
+            "Kannur",
+            "Mattannur",
+            "Peravoor",
+            "Taliparamba",
+          ],
+        },
+        {
+          name: "Kasaragod",
+          LAC: ["Payyannur"],
+        },
+        {
+          name: "Vadakara",
+          LAC: ["Kuthuparamba", "Thalassery"],
+        },
+      ],
+    },
+    {
+      district: "Kasaragod",
+      PACs: [
+        {
+          name: "Kasaragod",
+          LAC: ["Kanhangad", "Kasaragod", "Manjeshwar", "Trikaripur", "Udma"],
+        },
+      ],
+    },
+    {
+      district: "Kollam",
+      PACs: [
+        {
+          name: "Alappuzha",
+          LAC: ["Karunagappally"],
+        },
+        {
+          name: "Kollam",
+          LAC: [
+            "Chadayamangalam",
+            "Chathannur",
+            "Chavara",
+            "Eravipuram",
+            "Kollam",
+            "Kundara",
+            "Punalur",
+          ],
+        },
+        {
+          name: "Mavelikkara",
+          LAC: ["Kottarakkara", "Kunnathur", "Pathanapuram"],
+        },
+      ],
+    },
+    {
+      district: "Kottayam",
+      PACs: [
+        {
+          name: "Kottayam",
+          LAC: [
+            "Ettumanoor",
+            "Kaduthuruthy",
+            "Kottayam",
+            "Pala",
+            "Puthuppally",
+            "Vaikom",
+          ],
+        },
+        {
+          name: "Mavelikkara",
+          LAC: ["Changanassery"],
+        },
+        {
+          name: "Pathanamthitta",
+          LAC: ["Kanjirappally", "Poonjar"],
+        },
+      ],
+    },
+    {
+      district: "Kozhikode",
+      PACs: [
+        {
+          name: "Kozhikode",
+          LAC: [
+            "Balusseri",
+            "Beypore",
+            "Elathur",
+            "Koduvally",
+            "Kozhikode North",
+            "Kozhikode South",
+            "Kunnamangalam",
+          ],
+        },
+        {
+          name: "Vadakara",
+          LAC: ["Kuttiadi", "Nadapuram", "Perambra", "Quilandy", "Vadakara"],
+        },
+        {
+          name: "Wayanad",
+          LAC: ["Thiruvambady"],
+        },
+      ],
+    },
+    {
+      district: "Malappuram",
+      PACs: [
+        {
+          name: "Malappuram",
+          LAC: [
+            "Kondotty",
+            "Malappuram",
+            "Manjeri",
+            "Mankada",
+            "Perinthalmanna",
+            "Vallikkunnu",
+            "Vengara",
+          ],
+        },
+        {
+          name: "Ponnani",
+          LAC: [
+            "Kottakkal",
+            "Ponnani",
+            "Tanur",
+            "Thavanur",
+            "Tirur",
+            "Tirurangadi",
+          ],
+        },
+        {
+          name: "Wayanad",
+          LAC: ["Eranad", "Nilambur", "Wandoor"],
+        },
+      ],
+    },
+    {
+      district: "Palakkad",
+      PACs: [
+        {
+          name: "Alathur",
+          LAC: ["Alathur", "Chittur", "Nenmara", "Tarur"],
+        },
+        {
+          name: "Palakkad",
+          LAC: [
+            "Kongad",
+            "Malampuzha",
+            "Mannarkad",
+            "Ottapalam",
+            "Palakkad",
+            "Pattambi",
+            "Shornur",
+          ],
+        },
+        {
+          name: "Ponnani",
+          LAC: ["Thrithala"],
+        },
+      ],
+    },
+    {
+      district: "Pathanamthitta",
+      PACs: [
+        {
+          name: "Pathanamthitta",
+          LAC: ["Adoor", "Aranmula", "Konni", "Ranni", "Thiruvalla"],
+        },
+      ],
+    },
+    {
+      district: "Thiruvananthapuram",
+      PACs: [
+        {
+          name: "Attingal",
+          LAC: [
+            "Aruvikkara",
+            "Attingal",
+            "Chirayinkeezhu",
+            "Kattakkada",
+            "Nedumangad",
+            "Vamanapuram",
+            "Varkala",
+          ],
+        },
+        {
+          name: "Thiruvananthapuram",
+          LAC: [
+            "Kazhakkoottam",
+            "Kovalam",
+            "Nemom",
+            "Neyyattinkara",
+            "Parassala",
+            "Thiruvananthapuram",
+            "Vattiyoorkavu",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Thrissur",
+      PACs: [
+        {
+          name: "Alathur",
+          LAC: ["Chelakkara","Kunnamkulam","Wadakkanchery"],
+        },
+        {
+          name: "Chalakudy",
+          LAC: ["Chalakudy","Kaipamangalam","Kodungallur"],
+        },
+        {
+          name: "Thissur",
+          LAC: ["Guruvayoor","Manalur","Nattika","Ollur","Puthukkad","Thissur"],
+        },
+      ],
+    },
+    {
+      district: "Wayanad",
+      PACs: [
+        {
+          name: "Wayanad",
+          LAC: ["Kalpetta","Mananthavady","Sulthanbathery"],
+        },
+      ],
+    },
+  ];
