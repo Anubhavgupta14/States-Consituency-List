@@ -6588,3 +6588,2105 @@ var Sikkim = [
       ],
     },
   ];
+
+  var Jharkhand = [
+    {
+      district: "Bokaro",
+      PACs: [
+        {
+          name: "Dhanbad",
+          LAC: ["Bokaro"],
+        },
+        {
+          name: "Giridih",
+          LAC: ["Bermo", "Gomia"],
+        },
+      ],
+    },
+    {
+      district: "Chatra",
+      PACs: [
+        {
+          name: "Chatra",
+          LAC: ["Chatra", "Simaria"],
+        },
+      ],
+    },
+    {
+      district: "Deoghar",
+      PACs: [
+        {
+          name: "Godda",
+          LAC: ["Deoghar", "Madhupur"],
+        },
+      ],
+    },
+    {
+      district: "Dhanbad",
+      PACs: [
+        {
+          name: "Dhanbad",
+          LAC: ["Chandankyari", "Dhanbad", "Jharia", "Nirsa", "Sindri"],
+        },
+        {
+          name: "Giridih",
+          LAC: ["Baghmara", "Tundi"],
+        },
+      ],
+    },
+    {
+      district: "Dumka",
+      PACs: [
+        {
+          name: "Dumka",
+          LAC: ["Dumka", "Jama", "Shikaripara"],
+        },
+        {
+          name: "Godda",
+          LAC: ["Jarmundi", "Poreyahat"],
+        },
+      ],
+    },
+    {
+      district: "East Singhbhum",
+      PACs: [
+        {
+          name: "Jamshedpur",
+          LAC: [
+            "Bharagora",
+            "Ghatsila",
+            "Jamshedpur East",
+            "Jamshedpur West",
+            "Jugsalai",
+            "Potka",
+          ],
+        },
+      ],
+    },
+    {
+      district: "Garhwa",
+      PACs: [
+        {
+          name: "Palamau",
+          LAC: ["Bhawanathpur", "Garhwa"],
+        },
+      ],
+    },
+    {
+      district: "Girdih",
+      PACs: [
+        {
+          name: "Girdih",
+          LAC: ["Dumri", "Girdih"],
+        },
+        {
+          name: "Kodarma",
+          LAC: ["Dhanwar", "Gandey", "Jamua"],
+        },
+      ],
+    },
+    {
+      district: "Godda",
+      PACs: [
+        {
+          name: "Godda",
+          LAC: ["Godda", "Mahagama"],
+        },
+      ],
+    },
+    {
+      district: "Gumla",
+      PACs: [
+        {
+          name: "Khunti",
+          LAC: ["Simdega"],
+        },
+        {
+          name: "Lohardaga",
+          LAC: ["Bishunpur", "Gumla", "Sisai"],
+        },
+      ],
+    },
+    {
+      district: "Hazaribagh",
+      PACs: [
+        {
+          name: "Hazaribagh",
+          LAC: ["Barkagaon", "Hazaribagh", "Mandu"],
+        },
+        {
+          name: "Kodarma",
+          LAC: ["Bagodar"],
+        },
+      ],
+    },
+    {
+      district: "Jamtara",
+      PACs: [
+        {
+          name: "Dumka",
+          LAC: ["Jamtara", "Nala", "Sarath"],
+        },
+      ],
+    },
+    {
+      district: "Khunti",
+      PACs: [
+        {
+          name: "Khunti",
+          LAC: ["Khunti", "Torpa"],
+        },
+      ],
+    },
+    {
+      district: "Kodarma",
+      PACs: [
+        {
+          name: "Hazaribagh",
+          LAC: ["Barhi"],
+        },
+        {
+          name: "Kodarma",
+          LAC: ["Barkatha", "Kodarma"],
+        },
+      ],
+    },
+    {
+      district: "Latehar",
+      PACs: [
+        {
+          name: "Chatra",
+          LAC: ["Manika"],
+        },
+      ],
+    },
+    {
+      district: "Lohardaga",
+      PACs: [
+        {
+          name: "Lohardaga",
+          LAC: ["Lohardaga"],
+        },
+      ],
+    },
+    {
+      district: "Pakur",
+      PACs: [
+        {
+          name: "Rajmahal",
+          LAC: ["Littipara", "Maheshpur"],
+        },
+      ],
+    },
+    {
+      district: "Palamau",
+      PACs: [
+        {
+          name: "Chatra",
+          LAC: ["Panki"],
+        },
+        {
+          name: "Palamau",
+          LAC: ["Bishrampur", "Chattarpur", "Daltonganj", "Hussainabad"],
+        },
+      ],
+    },
+    {
+      district: "Ramgarh",
+      PACs: [
+        {
+          name: "Hazaribagh",
+          LAC: ["Ramgarh"],
+        },
+      ],
+    },
+    {
+      district: "Ranchi",
+      PACs: [
+        {
+          name: "Khunti",
+          LAC: ["Tamar"],
+        },
+        {
+          name: "Lohardaga",
+          LAC: ["Mandar"],
+        },
+        {
+          name: "Ranchi",
+          LAC: ["Hatai", "Kanke", "Khijri", "Ranchi", "Silli"],
+        },
+      ],
+    },
+    {
+      district: "Sahebganj",
+      PACs: [
+        {
+          name: "Rajmahal",
+          LAC: ["Barhait", "Borio", "Pakur", "Rajmahal"],
+        },
+      ],
+    },
+    {
+      district: "Saraikela-Kharswan",
+      PACs: [
+        {
+          name: "Khunti",
+          LAC: ["Kharasawan"],
+        },
+        {
+          name: "Ranchi",
+          LAC: ["Ichagarh"],
+        },
+        {
+          name: "Singhbhum",
+          LAC: ["Saraikella"],
+        },
+      ],
+    },
+    {
+      district: "Simdega",
+      PACs: [
+        {
+          name: "Khunti",
+          LAC: ["Kolebira"],
+        },
+      ],
+    },
+    {
+      district: "West Singhbhum",
+      PACs: [
+        {
+          name: "Singhbhum",
+          LAC: [
+            "Chaibasa",
+            "Chakradharpur",
+            "Jaganathpur",
+            "Majhganon",
+            "Manoharpur",
+          ],
+        },
+      ],
+    },
+  ];
+
+  var Karnataka = [
+    {
+        district: "Bagalkot",
+        PACs: [
+            {
+                name: "Bagalkot",
+                LAC: ["Badami", "Bagalkot", "Bilgi", "Hungund", "Jamkhandi", "Mudhol", "Terdal"]
+            }
+             
+        ]
+    },
+    {
+        district: "Bangalore Rural",
+        PACs: [
+            {
+                name: "Chikkballapur",
+                LAC: ["Devanahalli", "Doddaballapur", "Hosakote", "Nelamangala"]
+            },
+            {
+                name: "Kolar",
+                LAC: ["Chintamani", "Sidlaghatta"]
+            }
+             
+        ]
+    },
+    {
+        district: "Bangalore Urban",
+        PACs: [
+            {
+                name: "Bangalore Central",
+                LAC: ["Mahadevapura"]
+            },
+            {
+                name: "Bangalore North",
+                LAC: ["Byatarayanapura", "Dasarahalli", "Yeshvanthapura"]
+            },
+            {
+                name: "Bangalore Rural",
+                LAC: ["Anekal", "Bangalore South"]
+            },
+            {
+                name: "Chikkballapur",
+                LAC: ["Yelahanka"]
+            }
+             
+        ]
+    },
+    {
+        district: "B.B.M.P (Central)",
+        PACs: [
+            {
+                name: "Bangalore Central",
+                LAC: ["Chamrajpet", "Gandhi Nagar", "Rajaji Nagar", "Shanti Nagar", "Shivajinagar"]
+            },
+            {
+                name: "Bangalore Rural",
+                LAC: ["Rajarajeshwarinagar"]
+            },
+            {
+                name: "Bangalore South",
+                LAC: ["Chickpet"]
+            }
+             
+        ]
+    },
+    {
+        district: "B.B.M.P (North)",
+        PACs: [
+            {
+                name: "Bangalore Central",
+                LAC: ["C.V. Raman Nagar", "Sarvagnanagar"]
+            },
+            {
+                name: "Bangalore North",
+                LAC: ["Hebbal", "K.R.Pura", "Mahalakshmi Layout", "Malleshwaram", "Pulakeshinagar"]
+            }
+             
+        ]
+    },
+    {
+        district: "B.B.M.P (South)",
+        PACs: [
+            {
+                name: "Bangalore South",
+                LAC: ["Basavanagudi", "Bommanahalli", "B.T.M Layout", "Govindraj Nagar", "Jayanagar", "Padmanaba Nagar", "Vijay Nagar"]
+            }
+             
+        ]
+    },
+    {
+        district: "Belgaum",
+        PACs: [
+            {
+                name: "Belgaum",
+                LAC: ["Arabhavi", "Bailhongal", "Belgaum Dakshin", "Belgaum Rural", "Belgaum Uttar", "Gokak", "Ramdurg", "Saundatti Yellamma"]
+            },
+            {
+                name: "Chikkodi",
+                LAC: ["Athani", "Chikkodi-Sadalga", "Hukkeri", "Kagwad", "Kudachi", "Nippani", "Raybag", "Yemkanmardi"]
+            },
+            {
+                name: "Uttara Kannada",
+                LAC: ["Khanapur", "Kittur"]
+            }
+             
+        ]
+    },
+    {
+        district: "Bellary",
+        PACs: [
+            {
+                name: "Bellary",
+                LAC: ["Bellary", "Bellary City", "Hadagalli", "Hagaribommanahalli", "Kampli", "Kudligi", "Sandur", "Vijayanagara"]
+            },
+            {
+                name: "Koppal",
+                LAC: ["Siruguppa"]
+            }
+             
+        ]
+    },
+    {
+        district: "Bidar",
+        PACs: [
+            {
+                name: "Bidar",
+                LAC: ["Aurad", "Bhalki", "Bidar", "Bidar South", "Homnabad"]
+            }
+             
+        ]
+    },
+    {
+        district: "Bijapur",
+        PACs: [
+            {
+                name: "Bijapur",
+                LAC: ["Babaleshwar", "Basavana Bagevadi", "Bijapur City", "Devar Hippargi", "Indi", "Muddebihal", "Nagthan", "Sindgi"]
+            }
+             
+        ]
+    },
+    {
+        district: "Chamarajanagar",
+        PACs: [
+            {
+                name: "Chamarajanagar",
+                LAC: ["Chamarajanagar", "Gundlupet", "Hanur", "Kollegal"]
+            }
+             
+        ]
+    },
+    {
+        district: "Chikkballapur",
+        PACs: [
+            {
+                name: "Chikkballapur",
+                LAC: ["Bagepalli", "Chikkaballapur", "Gauribidanur"]
+            },
+            {
+                name: "Kolar",
+                LAC: ["Chintamani", "Sidlaghatta"]
+            }
+             
+        ]
+    },
+    {
+        district: "Chikmagalur",
+        PACs: [
+            {
+                name: "Hassan",
+                LAC: ["Kadur"]
+            },
+            {
+                name: "Udupi Chikmagalur",
+                LAC: ["Chikmagalur", "Mudigere", "Sringeri", "Tarikere"]
+            }
+             
+        ]
+    },
+    {
+        district: "Chitradurga",
+        PACs: [
+            {
+                name: "Chitradurga",
+                LAC: ["Challakere", "Chitradurga", "Hiriyur", "Holalkere", "Hosadurga", "Molakalmuru"]
+            }
+             
+        ]
+    },
+    {
+        district: "Dakshina Kannada",
+        PACs: [
+            {
+                name: "Dakshina Kannada",
+                LAC: ["Bantval", "Belthangady", "Mangalore", "Mangalore City North", "Mangalore City South", "Moodabidri", "Puttur", "Sullia"]
+            }
+             
+        ]
+    },
+    {
+        district: "Davanagere",
+        PACs: [
+            {
+                name: "Davanagere",
+                LAC: ["Channagiri", "Davanagere North", "Davanagere South", "Harapanahalli", "Harihar", "Honnali", "Jagalur", "Mayakonda"]
+            }
+             
+        ]
+    },
+    {
+        district: "Dharwad",
+        PACs: [
+            {
+                name: "Dharwad",
+                LAC: ["Dharwad", "Hubli-Dharwad-Central", "Hubli-Dharwad-East", "Hubli-Dharwad-West", "Kalghatgi", "Kundgol", "Navalgund"]
+            }
+             
+        ]
+    }, 
+    {
+        district: "Gadag",
+        PACs: [
+            {
+                name: "Bagalkot",
+                LAC: ["Nargund"]
+            },
+            {
+                name: "Haveri",
+                LAC: ["Gadag", "Ron", "Shirahatti"]
+            }
+             
+        ]
+    },
+    {
+        district: "Gulbarga",
+        PACs: [
+            {
+                name: "Bidar",
+                LAC: ["Aland", "Chincholi"]
+            },
+            {
+                name: "Gulbarga",
+                LAC: ["Afzalpur", "Chittapur", "Gulbarga Dakshin", "Gulbarga Rural", "Gulbarga Uttar", "Jevargi", "Sedam"]
+            }
+             
+        ]
+    },
+    {
+        district: "Hassan",
+        PACs: [
+            {
+                name: "Hassan",
+                LAC: ["Arkalgud", "Arsikere", "Belur", "Hassan", "Holenarasipur", "Sakleshpur", "Shravanabelagola"]
+            }
+             
+        ]
+    },
+    {
+        district: "Haveri",
+        PACs: [
+            {
+                name: "Dharwad",
+                LAC: ["Shiggaon"]
+            },
+            {
+                name: "Haveri",
+                LAC: ["Byadgi", "Hangal", "Haveri", "Hirekerur", "Ranibennur"]
+            }
+             
+        ]
+    },
+    {
+        district: "Kodagu",
+        PACs: [
+            {
+                name: "Mysore",
+                LAC: ["Madikeri", "Virajpet"]
+            }
+             
+        ]
+    },
+    {
+        district: "Kolar",
+        PACs: [
+            {
+                name: "Kolar",
+                LAC: ["Bangarapet", "Kolar", "Kolar Gold Field", "Malur", "Mulbagal"]
+            }
+             
+        ]
+    },
+    {
+        district: "Koppal",
+        PACs: [
+            {
+                name: "Koppal",
+                LAC: ["Gangawati", "Kanakagiri", "Koppal", "Kushtagi", "Kushtagi", "Yelburga"]
+            }
+             
+        ]
+    },
+    {
+        district: "Mandya",
+        PACs: [
+            {
+                name: "Mandya",
+                LAC: ["Krishnarajpet", "Maddur", "Malavalli", "Mandya", "Melukote", "Nagamangala", "Shrirangapattana"]
+            }
+             
+        ]
+    },
+    {
+        district: "Mysore",
+        PACs: [
+            {
+                name: "Chamarajanagar",
+                LAC: ["Heggadadevankote", "Nanjangud", "T.Narasipur", "Varuna"]
+            },
+            {
+                name: "Mandya",
+                LAC: ["Krishnarajanagara"]
+            },
+            {
+                name: "Mysore",
+                LAC: ["Chamaraja", "Chamundeshwari", "Hunsur", "Krishnaraja", "Narasimharaja", "Periyapatna"]
+            }
+             
+        ]
+    },
+    {
+        district: "Raichur",
+        PACs: [
+            {
+                name: "Koppal",
+                LAC: ["Maski", "Sindhanur"]
+            },
+            {
+                name: "Raichur",
+                LAC: ["Devadurga", "Lingsugur", "Manvi", "Raichur", "Raichur Rural"]
+            }
+             
+        ]
+    },
+    {
+        district: "Ramanagaram",
+        PACs: [
+            {
+                name: "Bangalore Rural",
+                LAC: ["Channapatna", "Kanakapura", "Magadi", "Ramanagaram"]
+            }
+             
+        ]
+    },
+    {
+        district: "Shimoga",
+        PACs: [
+            {
+                name: "Shimoga",
+                LAC: ["Bhadravati", "Sagar", "Shikaripura", "Shimoga", "Shimoga Rural", "Sorab", "Tirthahalli"]
+            }
+             
+        ]
+    },
+    {
+        district: "Tumkur",
+        PACs: [
+            {
+                name: "Bangalore Rural",
+                LAC: ["Kunigal"]
+            },
+            {
+                name: "Chitradurga",
+                LAC: ["Pavagada", "Sira"]
+            },
+            {
+                name: "Tumkur",
+                LAC: ["Chiknayakanhalli", "Gubbi", "Koratagere", "Madhugiri", "Tiptur", "Tumkur City", "Tumkur Rural", "Turuvekere"]
+            }
+             
+        ]
+    },
+    {
+        district: "Udupi",
+        PACs: [
+            {
+                name: "Shimoga",
+                LAC: ["Byndoor"]
+            },
+            {
+                name: "Udupi Chikmagalur",
+                LAC: ["Kapu", "Karkal", "Kundapura", "Udupi"]
+            }
+             
+        ]
+    },
+    {
+        district: "Uttara Kannada",
+        PACs: [
+            {
+                name: "Uttara Kannada",
+                LAC: ["Bhatkal", "Haliyal", "Karwar", "Kumta", "Sirsi", "Yellapur"]
+            }
+             
+        ]
+    }
+    
+];
+
+var Manipur = [
+  {
+    district: "Bishnupur",
+    PACs: [
+      {
+        name: "Inner Manipur",
+        LAC: [
+          "Bishnupur","Kumbi","Moirang","Nambol","Oinam","Thanga"
+        ],
+      }
+    ],
+  },
+  {
+    district: "Chandel",
+    PACs: [
+      {
+        name: "Outer Manipur",
+        LAC: [
+          "Chandel (St)","Tengnoupal (St)"
+        ],
+      }
+    ],
+  },
+  {
+    district: "Churachandpur",
+    PACs: [
+      {
+        name: "Outer Manipur",
+        LAC: [
+          "Churachandpur (St)","Henglep (St)","Saikot (Sc)","Singhat (Sc)","Thanlon (Sc)","Tipaimukh (St)"
+        ],
+      }
+    ],
+  },
+  {
+    district: "Imphal East",
+    PACs: [
+      {
+        name: "Inner Manipur",
+        LAC: [
+          "Andro","Heingang (Gen)","Keirao","Khundrakpam (Gen)","Khurai (Gen)","Kshetrigao","Lamlai","Thongju","Wangkhei","Yaiskul"
+        ],
+      },
+      {
+        name: "Outer Manipur",
+        LAC: [
+          "Jiribam"
+        ],
+      }
+    ],
+  },
+  {
+    district: "Imphal West",
+    PACs: [
+      {
+        name: "Inner Manipur",
+        LAC: [
+          "Keishamthong","Konthoujam","Lamsang","Langthabal","Mayang Imphal","Naoriya Pakhanglakpa","Patsoi","Sagolband","Sekmai","Singjamei","Thangmeiband","Uripok","Wangoi"
+        ],
+      }
+    ],
+  },
+  {
+    district: "Senapati",
+    PACs: [
+      {
+        name: "Outer Manipur",
+        LAC: [
+          "Kangpokpi (Gen)","Karong (St)","Mao (St)","Saikul (St)","Saitu (St)","Tadubi (St)"
+        ],
+      }
+    ],
+  },
+  {
+    district: "Tamenglong",
+    PACs: [
+      {
+        name: "Outer Manipur",
+        LAC: [
+          "Nungba (St)","Tamei (St)","Tamenglong (St)"
+        ],
+      }
+    ],
+  },
+  {
+    district: "Thoubal",
+    PACs: [
+      {
+        name: "Inner Manipur",
+        LAC: [
+          "Lilong","Thoubal","Wangkhem"
+        ],
+      },
+      {
+        name: "Outer Manipur",
+        LAC: [
+          "Heirok","Hiyanglam","Kakching","Khangabok","Sugnu","Wabgai","Wangjing Tentha"
+        ],
+      }
+    ],
+  },
+  {
+    district: "Ukhrul",
+    PACs: [
+      {
+        name: "Outer Manipur",
+        LAC: [
+          "Chingai (St)","Phungyar (St)","Ukhrul (St)"
+        ],
+      }
+    ],
+  },
+];
+
+var Meghalaya = [
+  {
+    district: "East Garo Hills",
+    PACs: [
+      {
+        name: "Tura",
+        LAC: [
+          "Kharkutta","Rongjeng","Songsak","William Nagar"
+        ],
+      }
+    ],
+  },
+  {
+    district: "East Jaintia Hills",
+    PACs: [
+      {
+        name: "Shillong",
+        LAC: [
+          "Khliehrait","Sutnga Saipung"
+        ],
+      }
+    ],
+  },
+  {
+    district: "East Khasi Hills",
+    PACs: [
+      {
+        name: "Shillong",
+        LAC: [
+          "East Shillong","Mawkynrew","Mawlai","Mawphlang","Mawryngkneng","Mawsynram","Mylliem","Nongkrem","Nongthymmai","North Shillong","Pynthorumkhrah","Pynursla","Shella","Sohiong","Sohra","South Shillong","West Shillong"
+        ],
+      }
+    ],
+  },
+  {
+    district: "North Garo Hills",
+    PACs: [
+      {
+        name: "Tura",
+        LAC: [
+          "Bajengdoba","Mendipathar","Resubelpara"
+        ],
+      }
+    ],
+  },
+  {
+    district: "Ri Bhoi",
+    PACs: [
+      {
+        name: "Shillong",
+        LAC: [
+          "Jirang","Mawhati","Nongpoh","Umroi","Umsning"
+        ],
+      }
+    ],
+  },
+  {
+    district: "South Garo Hills",
+    PACs: [
+      {
+        name: "Tura",
+        LAC: [
+          "Baghmara","Chokpot","Rongara Siju"
+        ],
+      }
+    ],
+  },
+  {
+    district: "South West Garo Hills",
+    PACs: [
+      {
+        name: "Tura",
+        LAC: [
+          "Ampati","Mahendraganj","Salmanpara"
+        ],
+      }
+    ],
+  },
+  {
+    district: "South West Khasi Hills",
+    PACs: [
+      {
+        name: "Shillong",
+        LAC: [
+          "Mawkyrwat","Ranikor"
+        ],
+      }
+    ],
+  },
+  {
+    district: "West Garo Hills",
+    PACs: [
+      {
+        name: "Tura",
+        LAC: [
+          "Dadenggre","Dalu","Gambegre","North Tura","Phulbari","Rajabala","Raksamgre","Rangsakona","Selsella","South Tura","Tikrikila"
+        ],
+      }
+    ],
+  },
+  {
+    district: "West Jaintia Hills",
+    PACs: [
+      {
+        name: "Shillong",
+        LAC: [
+          "Amlarem","Jowai","Mowkaiaw","Narthiang","Raliang"
+        ],
+      }
+    ],
+  },
+  {
+    district: "West Khasi Hills",
+    PACs: [
+      {
+        name: "Shillong",
+        LAC: [
+          "Mairang","Mawshynrut","Mawthadraishan","Nongstoin","Rambrai Jyrngam"
+        ],
+      }
+    ],
+  },
+];
+
+var Punjab = [
+  {
+  district : "Amritsar",
+  PACs: [
+      {
+          name : "Amritsar",
+          LAC:["Ajnala","Guntakal","Amritsar Central","Amritsar East","Amritsar North","Amritsar South","Amritsar West","Attari","Mjitha","Raja Sansi"]
+      },
+      {
+          name:  "Khadoor Sahib",
+          LAC:["Jandiala"]
+      }
+      ]
+  },
+  {
+  district : "Barnala",
+  PACs: [
+      {
+          name : "Sangrur",
+          LAC:["Barnala","Bhadaur","Mehal Kalan"]
+      },
+     
+      ]
+  },
+  {
+  district : "Bathinda",
+  PACs: [
+      {
+          name : "Bathinda",
+          LAC:["Bathinda Rural","Bathinda Urban","Bathinda Mandi","Maur","Talwandi Sabo"]
+      },
+      {
+          name:  "Faridkot",
+          LAC:["Rampura Phul"]
+      },
+     
+      ]
+  },
+  {
+      district : "Faridkot",
+      PACs: [
+          {
+              name : "Faridkot",
+              LAC:["Faridkot","Jaitu","Kotkapura"]
+          },
+         
+          ]
+      },
+      {
+      district : "Fatehgarh Sahib",
+      PACs: [
+          {
+              name : "Fatehgarh Sahib",
+              LAC:["Amloh","Bassi Pathana","Fatehgarh Sahib"]
+          },
+         
+          ]
+      },
+      {
+      district : "Fazika",
+      PACs: [
+          {
+              name : "Ferozpur",
+              LAC:["Abohar","Balluana","Fazika","Jalalabad"]
+          },
+         
+          ]
+      },
+      {
+          district : "Firozpur",
+          PACs: [
+              {
+                  name : "Ferozpur",
+                  LAC:["Firozpur City","Firozpur Rural","Guru Har Sahai"]
+              },
+              {
+                  name:  "Khadoor Sahib",
+                  LAC:["Zira"]
+              }
+              ]
+          },
+          {
+          district : "Gurdaspur",
+          PACs: [
+              {
+                  name : "Gurdaspur",
+                  LAC:["Betala","Dera Baba Nanak","Dina Nagar","Fatehgarh Churian","Gurdashpur","Qadian"]
+              },
+              {
+                  name : "Hoshiarpur",
+                  LAC:["Sri Hargobindpur"]
+              }
+              ]
+          },
+          {
+          district : "Hoshiarpur",
+          PACs: [
+              {
+                  name : "Anandpur Sahib",
+                  LAC:["Garhshankar"]
+              },
+              {
+                  name:  "Hoshiarpur",
+                  LAC:["Chabbewal","Dasuya","Hoshiarpur","Mukerian","Sham Chaurasi","Urmar"]
+              },
+             
+              ]
+          },
+          {
+              district : "Jalandhar",
+              PACs: [
+                  {
+                      name : "Jalandhar",
+                      LAC:["Adampur","Jalandhar Cantt.","Jalandhar Central","Jalandhar North","Jalandhar West","Kartarpur","Nakodar","Phillaur","Shahkot"]
+                  },
+                 
+                  ]
+              },
+              {
+              district : "Kapurthala",
+              PACs: [
+                  {
+                      name : "Hoshiarpur",
+                      LAC:["Bholath","Phagwara"]
+                  },
+                  {
+                      name : "Khadoor Sahib",
+                      LAC:["Kapurthala","Sultanpur Lodhi"]
+                  },
+                  ]
+              },
+              {
+              district : "Ludhiana",
+              PACs: [
+                  {
+                      name : "Fatehgarh Sahib",
+                      LAC:["Khana","Payal","Raikot","Sahenwal","Samrala"]
+                  },
+                  {
+                      name : "Ludhiana",
+                      LAC:["Atam Nagar","Dakha","Gill","Jagraon","Ludhiana Central","Ludhiana East","Ludhiana West","Ludhiana North","Ludhiana South"]
+                  },
+                  ]
+              },
+              {
+                  district : "Mansa",
+                  PACs: [
+                      {
+                          name : "Bathinda",
+                          LAC:["Budhlada","Mansa","Sardulgarh"]
+                      },
+                     
+                      ]
+                  },
+                  {
+                  district : "Moga",
+                  PACs: [
+                      {
+                          name : "Faridkot",
+                          LAC:["Bhagha Purana","Dharamkot","Moga","Nihal Singhwala"]
+                      },
+                     
+                      ]
+                  },
+                  {
+                      district : "Pathankot",
+                      PACs: [
+                          {
+                              name : "Gurdaspur",
+                              LAC:["Bhoa","Sujanpur"]
+                          },
+                          {
+                              name : "Jalandhar",
+                              LAC:["Pathankot"]
+                          },
+                          ]
+                      },
+                      {
+                      district : "Patiala",
+                      PACs: [
+                          {
+                              name : "Patiala",
+                              LAC:["Nabha","Patiala","Patiala Rural","Samana","Sanour","Shutrana"]
+                          },
+                         
+                          ]
+                      },
+                      {
+                          district : "Rupnagar",
+                          PACs: [
+                              {
+                                  name : "Anandpur Sahib",
+                                  LAC:["Anandpur Sahib","Chamkaur Sahib","Rupnagar"]
+                              }
+                              ]
+                          },
+                          {
+                          district : "Sangrur",
+                          PACs: [
+                              {
+                                  name : "Fatehgarh Sahib",
+                                  LAC:["Amargarh"]
+                              },
+                              {
+                                  name : "Sangrur",
+                                  LAC:["Dhuri","Dirba","Lehra","Makerkotla","Sangrur","Sunam"]
+                              },
+                              ]
+                          },
+                          {
+                              district : "Shahibzada Ajit Singh Nagar",
+                              PACs: [
+                                  {
+                                      name : "Anandpur Sahib",
+                                      LAC:["Kharar","S.A.S Nagar"]
+                                  },
+                                  {
+                                      name : "Patiala",
+                                      LAC:["Dera Bassi","Ghanaur","Rajpura"]
+                                  },
+                                  ]
+                              },
+                              {
+                              district : "Shahid Bhagat Singh Nagar",
+                              PACs: [
+                                  {
+                                      name : "Anandpur Shaib",
+                                      LAC:["Balachaur","Banga(Sc)","Nawanshahr"]
+                                  },
+                                 
+                                  ]
+                              },
+                              {
+                                  district : "Sri Muktsar Sahib",
+                                  PACs: [
+                                      {
+                                          name : "Bathinda",
+                                          LAC:["Lambi"]
+                                      },
+                                      {
+                                          name : "Faridkot",
+                                          LAC:["Giddarbaha"]
+                                      },
+                                      {
+                                          name : "Ferozpur",
+                                          LAC:["Malout","Muktsar"]
+                                      },
+                                      ]
+                                  },
+                                  {
+                                  district : "Tarntaran",
+                                  PACs: [
+                                      {
+                                          name : "Khadoor Shaib",
+                                          LAC:["Baba Bakala","Khadoor Shaib","Kham Karan","Patti","Tarn Taran"]
+                                      },
+                                     
+                                      ]
+                                  }
+
+  ]
+
+var Mizoram = [
+    {
+      district: "Aizawl",
+      PACs: [
+        {
+          name: "Mizoram",
+          LAC: [
+            "Aizawl East-I","Aizawl East-II","Aizawl North-I","Aizawl North-II","Aizawl North-III","Aizawl South-I","Aizawl South-II (Aizawl X)","Aizawl South-III","Aizawl West-I","Aizawl West-II","Aizawl West-III","Chalfilh","Tawi","Tuivawl"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Champhai",
+      PACs: [
+        {
+          name: "Mizoram",
+          LAC: [
+            "Champhai North","Champhai South","East Tuipui","Lengteng","Tuichang"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Kolasib",
+      PACs: [
+        {
+          name: "Mizoram",
+          LAC: [
+            "Kolasib","Serlui","Tuirial"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Lawngtlai",
+      PACs: [
+        {
+          name: "Mizoram",
+          LAC: [
+            "Lawngtlai East","Lawngtlai West","Tuichawng"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Lunglei",
+      PACs: [
+        {
+          name: "Mizoram",
+          LAC: [
+            "Lunglei East","Lunglei West","Lunglei North","Lunglei South","South Tuipui","Thorang","West Tuipui"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Mamit",
+      PACs: [
+        {
+          name: "Mizoram",
+          LAC: [
+            "Dampa","Hachhek","Mamit"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Saiha",
+      PACs: [
+        {
+          name: "Mizoram",
+          LAC: [
+            "Palak","Saiha"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Serchhip",
+      PACs: [
+        {
+          name: "Mizoram",
+          LAC: [
+            "Hrangturzo","Serchhip","Tuikum"
+          ],
+        }
+      ],
+    },
+  ];
+
+  var Nagaland = [
+    {
+      district: "Dimapur",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Dimapur-I","Dimapur-II","Dimapur-III","Ghaspani-I","Ghaspani-II"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Kiphire",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Pungro Kiphire","Seyochung Sitimi"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Kohima",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Kohima Town","Northern Angami-I","Northern Angami-II","Southern Angami-I","Southern Angami-II","Tseminyu","Western Angami"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Longleng",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Longleng","Tamlu"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Mokokchung",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Alongtaki","Angetyongpang","Aonglenden","Arkakong","Impur","Jangpetkong","Koridang","Mokokchung Town","Mongoya","Tuli"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Mon",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Aboi","Moka","Mon Town","Phomching","Tapi","Tehok","Tizit","Tobu","Wakching"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Peren",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Peren","Tenning"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Phek",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Chazouba","Chizami","Meluri","Pfutsero","Phek"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Pughoboto",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Pughoboto"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Tuensang",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Longkhim Chare","Noklak","Noksen","Shamator Chessore","Thonoknyu","Tuensang Sadar-I","Tuensang Sadar-II"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Wokha",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Bhandari","Sanis","Tyui","Wokha"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Zunheboto",
+      PACs: [
+        {
+          name: "Nagaland",
+          LAC: [
+            "Aghunato","Akuluto","Atoizu","Satakha","Suruhoto","Zunheboto"
+          ],
+        }
+      ],
+    },
+  ];
+
+  var Telangana = [
+    {
+      district: "Adilabad",
+      PACs: [
+        {
+          name: "Adilabad",
+          LAC: [
+            "Adilabad","Asifabad","Boath","Khanapur","Mudhole","Nimral","Sirpur"
+          ],
+        },
+        {
+          name: "Peddapalle",
+          LAC: [
+            "Bellampalli","Chennur","Mancherial"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Hyderabad",
+      PACs: [
+        {
+          name: "Hyderabad",
+          LAC: [
+            "Bahadurpura","Chandrayangutta","Charminar","Goshamahal","Karwan","Malakpet","Yakutpura"
+          ],
+        },
+        {
+          name: "Malkajgiri",
+          LAC: [
+            "Secundrabad Cantt."
+          ],
+        },
+        {
+          name: "Secundrabad",
+          LAC: [
+            "Amberpet","Jubilee Hills","Khairatabad","Musheerabad","Nampalli","Sanath Nagar","Secunderabad"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Karimnagar",
+      PACs: [
+        {
+          name: "Karimnagar",
+          LAC: [
+            "Choppadandi","Husnabad","Huzurabad","Karimnagar","Manakondur","Sircilla","Vemulawada"
+          ],
+        },
+        {
+          name: "Nizamabad",
+          LAC: [
+            "Jagtial","Koratla"
+          ],
+        },
+        {
+          name: "Peddapalle",
+          LAC: [
+            "Dharmapuri","Manthani","Peddapalle","Ramagundam"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Khammam",
+      PACs: [
+        {
+          name: "Khammam",
+          LAC: [
+            "Aswaraopeta","Khammam","Kothagudem","Madhira","Palair","Sathupalli","Wyra"
+          ],
+        },
+        {
+          name: "Mahabubabad",
+          LAC: [
+            "Bhadrachalam","Pinapaka","Yellandu"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Mahabubnagar",
+      PACs: [
+        {
+          name: "Mahabubnagar",
+          LAC: [
+            "Devarkadra","Jadcherla","Mahabubnagar","Makthal","Narayanpet","Shadnagar"
+          ],
+        },
+        {
+          name: "Nagarkurnool",
+          LAC: [
+            "Achampet","Alampur","Gadwal","Kalwakurthy","Kollapur","Nagarkurnool","Wanaparthy"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Medak",
+      PACs: [
+        {
+          name: "Medak",
+          LAC: [
+            "Dubbak","Gajwel","Medak","Narsapur","Patancheru","Sangareddy","Siddipet"
+          ],
+        },
+        {
+          name: "Zahirabad",
+          LAC: [
+            "Andole","Narayankhed","Zahirabad"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Nalgonda",
+      PACs: [
+        {
+          name: "Bhongir",
+          LAC: [
+            "Alair","Bhongir","Munugode","Nakrekal","Thungathurthy"
+          ],
+        },
+        {
+          name: "Nalgonda",
+          LAC: [
+            "Devarakonda","Huzurnagar","Kodad","Miryalguda","Nagarjuna Sagar","Nalgonda","Suryapet"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Nizamabad",
+      PACs: [
+        {
+          name: "Nizamabad",
+          LAC: [
+            "Armur","Balkonda","Bodhan","Nizamabad (Rural)","Nizamabad (Urban)"
+          ],
+        },
+        {
+          name: "Zahirabad",
+          LAC: [
+            "Banswada","Jukkal","Kamareddy","Yellareddy"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Rangareddy",
+      PACs: [
+        {
+          name: "Bhongir",
+          LAC: [
+            "Ibrahimpatnam"
+          ],
+        },
+        {
+          name: "Chelvella",
+          LAC: [
+            "Chelvella","Maheshwaram","Pargi","Rajendranagar","Serilingampally","Tandur","Vikarabad"
+          ],
+        },
+        {
+          name: "Malkajgiri",
+          LAC: [
+            "Kukatpally","Lal Bahadur Nagar","Malkajgiri","Medchal","Quthbullapur","Uppal"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Warangal",
+      PACs: [
+        {
+          name: "Bhongir",
+          LAC: [
+            "Jangoan"
+          ],
+        },
+        {
+          name: "Mahabubabad",
+          LAC: [
+            "Dornakal","Mahabubabad","Mulug","Narsampet"
+          ],
+        },
+        {
+          name: "Warangal",
+          LAC: [
+            "Bhupalpalle","Ghanpur (Station)","Palakurthi","Parkal","Warangal East","Warangal West","Wardhanapet"
+          ],
+        }
+      ],
+    },
+  ];
+
+  var Rajasthan = [
+    {
+    district : "Ajmer",
+    PACs: [
+        {
+            name : "Ajmer",
+            LAC:["Ajmer North","Ajmer South","Kekri","Kishangarh","Masuda","Nasirabad","Puhskar"]
+        },
+        {
+            name:  "Rajsamand",
+            LAC:[]
+        }
+        ]
+    },
+    {
+    district : "Alwar",
+    PACs: [
+        {
+            name : "Alwar",
+            LAC:["Alwar Rural","Alwar Urban","Alwar Urban","Behror","Kishangarh Bas","Kishangarh Bas","Mundawar","Rajgarh Laxmangarh","Ramgarh","Tijara"]
+        },
+        {
+            name : "Bharatpur",
+            LAC:["Kathumar"]
+        },
+        {
+            name : "Dausa",
+            LAC:["Thanagaji"]
+        },
+        {
+            name : "Jaipur Rural",
+            LAC:["Bansur"]
+        },
+       
+        ]
+    },
+    {
+    district : "Banswara",
+    PACs: [
+        {
+            name : "Banswara",
+            LAC:["Bagidora","Banswara","Garhi","Maur","Talwandi Sabo"]
+        }
+       
+        ]
+    },
+    {
+        district : "Baran",
+        PACs: [
+            {
+                name : "Jhalawar-Baran",
+                LAC:["Anta","Baran-Atru","Chhabra","Khanpur","Kishanganj"]
+            },
+           
+            ]
+        },
+        {
+        district : "Barmer",
+        PACs: [
+            {
+                name : "Barmer",
+                LAC:["Barmer","Baytoo","Chohtan","Ghudhamalani","Pachpadra","Sheo","Siwana"]
+            },
+           
+            ]
+        },
+        {
+        district : "Bharatpur",
+        PACs: [
+            {
+                name : "Bharatpur",
+                LAC:["Bayana","Bharatpur","Deeg-Kumher","Nadbai","Nagar","Weir"]
+            },
+           
+            ]
+        },
+        {
+            district : "Bhilwara",
+            PACs: [
+                {
+                    name : "Bhilwara",
+                    LAC:["Asind","Bhilwara","Jahazpur","Mandal","Mandalgarh","Sahara","Shahpur"]
+                }
+                ]
+            },
+            {
+            district : "Bikaner",
+            PACs: [
+                {
+                    name : "Bikaner",
+                    LAC:["Bikaner East","Bikaner West","Dungangarh","Khajuwala","Kolayat","Lunkaransar","Nokha"]
+                }
+                ]
+            },
+            {
+            district : "Bundi",
+            PACs: [
+                {
+                    name : "Bhilwara",
+                    LAC:["Hindoli"]
+                },
+                {
+                    name:  "Kota",
+                    LAC:["Bundi","Keshoraipatan"]
+                },
+               
+                ]
+            },
+            {
+                district : "Chittorgarh",
+                PACs: [
+                    {
+                        name : "Chittorgarh",
+                        LAC:["Bari Sadri","Begun","Chittorgarh","Kapasan","Nimbahera"]
+                    },
+                   
+                    ]
+                },
+                {
+                district : "Churu",
+                PACs: [
+                    {
+                        name : "Churu",
+                        LAC:["Churu","Ratangarh","Sadulpur","Sardarshahar","Sujanarh","Taranagar"]
+                    }
+                    ]
+                },
+                {
+                district : "Dausa",
+                PACs: [
+                    {
+                        name : "Dausa",
+                        LAC:["Bandikui","Dausa","Lalsot","Mahuwa","Sikrai"]
+                    }
+                    ]
+                },
+                {
+                    district : "Dholpur",
+                    PACs: [
+                        {
+                            name : "Karauli-Dholpur",
+                            LAC:["Bari","Baseri","Dholpur","Rajakhera"]
+                        },
+                       
+                        ]
+                    },
+                    {
+                    district : "Dungarpur",
+                    PACs: [
+                        {
+                            name : "Banswara",
+                            LAC:["Chorasi","Dungarpur","Sagwara"]
+                        },
+                        {
+                            name : "Udaipur",
+                            LAC:["Aspur"]
+                        },
+                        ]
+                    },
+                    {
+                        district : "Ganganagar",
+                        PACs: [
+                            {
+                                name : "Bikaner",
+                                LAC:["Anupgarh"]
+                            },
+                            {
+                                name : "Ganganagar",
+                                LAC:["Ganganagar","Karanpur","Raisinghnagar","Sadulshahar","Suratgarh"]
+                            },
+                            ]
+                        },
+                        {
+                        district : "Hanumangarh",
+                        PACs: [
+                            {
+                                name : "Churu",
+                                LAC:["Bhadra","Nohar"]
+                            },
+                            {
+                                name : "Ganganagar",
+                                LAC:["Hanumangarh","Pilibanga","Sangaria"]
+                            },
+                           
+                            ]
+                        },
+                        {
+                            district : "Jaipur",
+                            PACs: [
+                                {
+                                    name : "Ajmer",
+                                    LAC:[]
+                                },
+                                {
+                                    name : "Dausa",
+                                    LAC:["Bassi","Chaksu"]
+                                },
+                                {
+                                    name : "Jaipur",
+                                    LAC:["Adarsh Nagar","Bagru","Civil Lines","Hawa Mahal","Kishan Pole","Malviya Nagar","Sanganer","Vidhayadhar Nagar"]
+                                },
+                                {
+                                    name : "Jaipur Rural",
+                                    LAC:["Amber","Dudu","Jamwa Ramgarh","Jhotwara","Kotputli","Phulera","Shahpura","Viratnagar"]
+                                },
+                                {
+                                    name : "Sikar",
+                                    LAC:["Chomu"]
+                                }
+                                ]
+                            },
+                            {
+                            district : "Jaisalmer",
+                            PACs: [
+                                {
+                                    name : "Barmer",
+                                    LAC:["Jaisalmer"]
+                                },
+                                {
+                                    name : "Jodhpur",
+                                    LAC:["Pokran"]
+                                },
+                                ]
+                            },
+                            {
+                                district : "Jalore",
+                                PACs: [
+                                    {
+                                        name : "Jalore",
+                                        LAC:["Ahore","Bhinmal","Jalore","Raniwara","Sanchore"]
+                                    },
+                                    
+                                    ]
+                                },
+                                {
+                                district : "Jhalwara",
+                                PACs: [
+                                    {
+                                        name : "Jhalwara-Baran",
+                                        LAC:["Dag","Jhalrapatan","Manohar Thana"]
+                                    },
+                                   
+                                    ]
+                                },
+                                {
+                                    district : "Jhunjhunu",
+                                    PACs: [
+                                        {
+                                            name : "Jhunjhunu",
+                                            LAC:["Jhunjhunu","Khetri","Mandawa","Nawalgarh","Pilani","Surajgarh","Udaipurwati"]
+                                        }
+                                        ]
+                                    },
+                                    {
+                                    district : "Jodhpur",
+                                    PACs: [
+                                        {
+                                            name : "Jodhpur",
+                                            LAC:["Jodhpur","Lohawati","Luni","Phalodi","Sardarpura","Shergarh","Soorsagar"]
+                                        },
+                                        {
+                                            name : "Pali",
+                                            LAC:["Bhopalgarh","Bilara","Osian"]
+                                        },
+                                        ]
+                                    },
+                                    {
+                                        district : "Karauli",
+                                        PACs: [
+                                            {
+                                                name : "Karauli-Dholpur",
+                                                LAC:["Hindaun","Karauli","Sapotra","Todabhim"]
+                                            }
+                                            ]
+                                        },
+                                        {
+                                        district : "Kota",
+                                        PACs: [
+                                            {
+                                                name : "Kota",
+                                                LAC:["Kota North","Kota South","Ladpura","Pipalda","Sangod"]
+                                            }
+                                            ]
+                                        },
+                                        {
+                                            district : "Nagaur",
+                                            PACs: [
+                                                {
+                                                    name : "Nagaur",
+                                                    LAC:["Deedwana","Jayal","Khinwsar","Ladnun","Makrana","Nagaur","Nawan","Parbatsar"]
+                                                },
+                                                {
+                                                    name : "Rajsamand",
+                                                    LAC:["Degana","Merta"]
+                                                }
+                                                ]
+                                            },
+                                            {
+                                            district : "Pali",
+                                            PACs: [
+                                                {
+                                                    name : "Pali",
+                                                    LAC:["Bali","Marwar Junction","Pali","Sojat","Sumerpur"]
+                                                },
+                                                {
+                                                    name : "Rajsamand",
+                                                    LAC:["Jaitaran"]
+                                                },
+                                                ]
+                                            },
+                                            {
+                                                district : "Pratapgarh",
+                                                PACs: [
+                                                    {
+                                                        name : "Chittorgarh",
+                                                        LAC:["Pratapgarh"]
+                                                    },
+                                                    {
+                                                        name : "Udaipur",
+                                                        LAC:["Dhariawad"]
+                                                    }
+                                                    ]
+                                                },
+                                                {
+                                                district : "Rajsamand",
+                                                PACs: [
+                                                    {
+                                                        name : "Rajsamand",
+                                                        LAC:["Bhim","Kumbhalgarh","Nathdwara","Rajsamand"]
+                                                    }
+                                                    ]
+                                                },
+                                                {
+                                                    district : "Sawaimadhopur",
+                                                    PACs: [
+                                                        {
+                                                            name : "Tonk-Sawai Madhopur",
+                                                            LAC:["Bamanwas","Gangapur","Khandar","Sawai Modhopur"]
+                                                        }
+                                                        ]
+                                                    },
+                                                    {
+                                                    district : "Sikar",
+                                                    PACs: [
+                                                        {
+                                                            name : "Jhunjhunu",
+                                                            LAC:["Fatehpur"]
+                                                        },
+                                                        {
+                                                            name : "Sikar",
+                                                            LAC:["Danta Ramgarh","Dhod","Khandela","Lachhmangarh","Neem Ka Thana","Sikar","Srimadhopur"]
+                                                        },
+                                                        ]
+                                                    },
+                                                    {
+                                                    district : "Sirohi",
+                                                    PACs: [
+                                                        {
+                                                            name : "Jalore",
+                                                            LAC:["Pindwara Abu","Reodar","Sirohi"]
+                                                        }
+                                                        ]
+                                                    },
+                                                    {
+                                                    district : "Tonk",
+                                                    PACs: [
+                                                        {
+                                                            name : "Tonk-Sawai Madhopur",
+                                                            LAC:["Deoli-Uniara","Malpura","Malpura","Niwai","Tonk"]
+                                                        }
+                                                        ]
+                                                    },
+                                                    {
+                                                        district : "Udaipur",
+                                                        PACs: [
+                                                            {
+                                                                name : "Chittorgarh",
+                                                                LAC:["Mavli","Vallabh Nagar"]
+                                                            },
+                                                            {
+                                                                name : "Udaipur",
+                                                                LAC:["Gogunda","Jhadol","Kherwara","Salumber","Udaipur","Udaipur Rural"]
+                                                            }
+                                                            ]
+                                                        }
+
+    ]
+
+var Tripura = [
+    {
+      district: "Dhalai",
+      PACs: [
+        {
+          name: "Tripura East",
+          LAC: [
+           "Ambassa","Chawamanu","Kamalpur","Karmachhara","Raima Valley","Surma"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Gomati",
+      PACs: [
+        {
+          name: "Tripura East",
+          LAC: [
+           "Amarpur","Ampinagar","Karbook"
+          ],
+        },
+        {
+          name: "Tripura West",
+          LAC: [
+           "Bagma","Kakraban-Salgarh","Matarbari","Radhakishorepur"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Khowai",
+      PACs: [
+        {
+          name: "Tripura East",
+          LAC: [
+           "Asharambari","Kalyanpur-Pramodenaga","Khowai","Krishnapur","Ramchandraghat","Teliamura"
+          ],
+        }
+      ],
+    },
+    {
+      district: "North Tripura",
+      PACs: [
+        {
+          name: "Tripura East",
+          LAC: [
+           "Bagbassa","Dharmanagar","Jubarajnagar","Kadamtala-Kurti","Kanchanpur","Panisagar","Pencharthal"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Sepahijala",
+      PACs: [
+        {
+          name: "Tripura West",
+          LAC: [
+           "Bishalgarh","Boxanagar","Charilam","Dhanpur","Golaghati","Kamalasagar","Nalchar","Sonamura","Takarjala"
+          ],
+        }
+      ],
+    },
+    {
+      district: "South Tripura",
+      PACs: [
+        {
+          name: "Tripura East",
+          LAC: [
+           "Hrishyamukh","Jolaibari","Manu","Sabroom"
+          ],
+        },
+        {
+          name: "Tripura West",
+          LAC: [
+           "Belonia","Rajnagar","Santirbazar"
+          ],
+        }
+      ],
+    },
+    {
+      district: "Unakoti",
+      PACs: [
+        {
+          name: "Tripura East",
+          LAC: [
+           "Chandipur","Fatikroy","Kailashahar","Pabiachhara"
+          ],
+        }
+      ],
+    },
+    {
+      district: "West Tripura",
+      PACs: [
+        {
+          name: "Tripura West",
+          LAC: [
+           "Agartala","Badharghat","Bamutia","Banamalipur" , "Barjala","Khayerpur","Majlishpur","Mandaibazar" ,"Mohanpur" , "Pratapgarh" , "Ramnagar" , "Simna" , "Suryamaninagar" ,"Town Bordowali"
+          ],
+        }
+      ],
+    },
+  ];
